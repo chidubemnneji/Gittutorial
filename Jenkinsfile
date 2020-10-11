@@ -8,6 +8,7 @@ pipeline {
       
       steps {
           echo "building test server"
+          echo "that is great"
       }
     }
     
